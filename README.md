@@ -102,9 +102,33 @@ The deliverable for this assignment is a script, **read_cdc.py**, that generates
 
 44. Run summary statistics on the “epi_deaths” column of average_death_counts and use the sort_values() call and print average_death_counts.
 
-## Submitting
+## Results
 
-Once you’re happy with everything and have committed all of the changes to your local repository, please push the changes to GitHub. At that point, you’re done: you have submitted your answer.
+1. Top three states with neurological mortality:
+•	California
+•	Texas
+•	Florida
+
+2. Top three states with epileptic mortality:
+•   California
+•	Texas
+•	Michigan
+
+3. Top three ranks neurological mortality rates:
+•	North Dakota
+•	South Dakota
+•	Washington
+
+4. Top three ranks of epileptic mortality rates:
+•	South Dakota
+•	Rhode Island
+•	Montana
+
+5. Overall death counts and death rates are increasing at alarming rates for both neurological and epileptic mortalities across the United States.
+
+6. There seems to be a positive correlation between epileptic deaths and neurological deaths, as an increase in epileptic deaths is indicating an even higher number of neurological deaths across states. 
+
+7. States such as California, Texas, and South Dakota should shift their policy and investigative strategies towards initiatives to combat such disorders, as there might be high levels of neurotoxins in their environments. 
 
 ## Tips
 
